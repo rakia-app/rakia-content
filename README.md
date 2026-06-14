@@ -12,3 +12,4 @@ sefaria.org) keeps the texts reachable on filtered networks.
 
 Texts are sourced from [Sefaria](https://www.sefaria.org) under
 [CC-BY](https://creativecommons.org/licenses/by/4.0/) and redistributed here with attribution.
+- `kovetz-yesodot-bundle.json.gz` — קובץ יסודות וחקירות (Sefaria): 1167 ערכים לפי אות + מבוא/הקדמה, קישורי "עיין ערך" פנימיים. גרסת מבנה: 1.
